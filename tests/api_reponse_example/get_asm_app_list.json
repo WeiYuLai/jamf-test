@@ -1,0 +1,1 @@
+{"mobile_device_applications": [{"id": 4, "name": "Jamf Self Service", "display_name": "Jamf Self Service", "bundle_id": "com.jamfsoftware.selfservice", "version": "10.10.6", "internal_app": true}, {"id": 5, "name": "Microsoft Word", "display_name": "Microsoft Word", "bundle_id": "com.microsoft.Office.Word", "version": "2.57", "internal_app": true}]}

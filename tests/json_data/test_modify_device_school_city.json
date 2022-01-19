@@ -1,0 +1,13 @@
+{
+  "mobile_device": {
+    "location": {
+      "building": "台北市"
+    },
+    "extension_attributes": {
+      "extension_attribute": {
+        "name": "school_name",
+        "value": "東區國小"
+      }
+    }
+  }
+}

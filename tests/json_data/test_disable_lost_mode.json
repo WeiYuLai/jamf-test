@@ -1,0 +1,12 @@
+{
+  "mobile_device_command": {
+    "general": {
+      "command": "DisableLostMode"
+    },
+    "mobile_devices": {
+      "mobile_device": {
+        "name": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mobile_device_command": {
+    "general": {
+      "command": "UpdateInventory"
+    },
+    "mobile_devices": {
+      "mobile_device": {
+        "name": ""
+      }
+    }
+  }
+}

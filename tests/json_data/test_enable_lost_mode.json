@@ -1,0 +1,17 @@
+{
+  "mobile_device_command": {
+    "general": {
+      "command": "EnableLostMode",
+      "lost_mode_message": "這台 iPad 已經報案遺失，請儘快歸還。",
+      "lost_mode_phone": "02-12345678",
+      "lost_mode_footnote": "本資產屬於教育部所有",
+      "always_enforce_lost_mode": "false",
+      "lost_mode_with_sound": "false"
+    },
+    "mobile_devices": {
+      "mobile_device": {
+        "name": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+        "mobile_device_application": {
+            "scope": {
+                "mobile_devices": {
+                    "mobile_device": {
+                        "name": ""
+                    }
+                }
+            }
+        }
+    }
